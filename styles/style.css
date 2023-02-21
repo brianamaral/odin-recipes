@@ -2,6 +2,19 @@
     font-family: 'Times New Roman',sans-serif;
 }
 
+p {
+    font-size: 20px;
+}
+
+h1,h2,h3 {
+    font-size: 30px;
+}
+
 ul {
     color: red;
+}
+
+img {
+    width: 128px;
+    height: auto;
 }
